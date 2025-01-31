@@ -1,4 +1,6 @@
-# FAQ Project
+
+# Django FAQ System 📖  
+A Django-based FAQ management system with **WYSIWYG editor support, multilingual translations, caching, and REST APIs**.
 
 ## Installation
 1. Clone the repository.
@@ -14,3 +16,4 @@
 - Fork the repository.
 - Create a new branch for your feature.
 - Submit a pull request.
+
