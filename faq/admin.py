@@ -3,4 +3,4 @@ from .models import FAQ
 
 @admin.register(FAQ)
 class FAQAdmin(admin.ModelAdmin):
-    list_display = ('question', 'answer')
+    fields = ('question', 'answer', 'question_hi', 'answer_hi', 'question_bn', 'answer_bn')
