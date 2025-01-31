@@ -10,8 +10,6 @@ A Django-based FAQ management system with **WYSIWYG editor support, multilingual
 ✔️ **Docker support** (Bonus)
 ```
 
----
-
 ### **📌 Installation Instructions**  
 ```markdown
 ## 🔧 Installation  
@@ -66,9 +64,6 @@ curl http://localhost:8000/api/faqs/?lang=hi
 ```bash
 curl http://localhost:8000/api/faqs/?lang=bn
 ```
-```
-
----
 
 ### **📌 Running Tests**  
 ```markdown
@@ -79,10 +74,6 @@ pytest
 ✔️ Ensures translation, caching, and API functionality  
 ✔️ Confirms **high code quality**  
 ```
-
-
-
----
 
 ### **📌 Git Commit Message Convention**  
 ```markdown
